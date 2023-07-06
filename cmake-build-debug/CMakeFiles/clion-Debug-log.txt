@@ -1,0 +1,8 @@
+/snap/clion/237/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/237/bin/ninja/linux/x64/ninja -G Ninja -S /home/danil/Slicer -B /home/danil/Slicer/cmake-build-debug
+CMake Error at CMakeLists.txt:4 (message):
+  CMake version is 3.25.2 and using CMake >=3.25.0,<=3.25.2 is not supported.
+
+  See https://gitlab.kitware.com/cmake/cmake/-/issues/24567
+
+
+-- Configuring incomplete, errors occurred!
